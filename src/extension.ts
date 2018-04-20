@@ -1,5 +1,5 @@
 'use strict';
-import { ExtensionContext, languages, DocumentLinkProvider, TextDocument, CancellationToken, DocumentLink, Range, Position, Uri } from 'vscode';
+import { ExtensionContext, languages, DocumentLinkProvider, TextDocument, CancellationToken, DocumentLink, Range, Uri } from 'vscode';
 
 export function activate(context: ExtensionContext) {
     const emailLinkProvider = new EmailLinkProvider();
