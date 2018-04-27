@@ -7,3 +7,5 @@ Highlights email addresses in MarkDown documents and makes them clickable `mailt
 ## Release Notes
 
 See the [change log](CHANGELOG.md).
+
+[In the Marketplace](https://marketplace.visualstudio.com/items?itemName=TomasHubelbauer.vscode-markdown-email-links)
