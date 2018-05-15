@@ -3,6 +3,11 @@
     "displayName": "MarkDown Email Links",
     "description": "Highlights emails in MarkDown and makes them clickable",
     "version": "2.0.0",
+    "license": "MIT",
+    "categories": [
+        "Programming Languages"
+    ],
+    "keywords": ["markdown", "link", "email"],
     "publisher": "TomasHubelbauer",
     "repository": {
         "type": "git",
